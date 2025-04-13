@@ -1,0 +1,12 @@
+[submodule "autocare-partner"]
+	path = autocare-partner
+	url = https://github.com/karandevhub/autocare-partner.git
+[submodule "autocare-user"]
+	path = autocare-user
+	url = https://github.com/karandevhub/autocare-user.git
+[submodule "autocare-server"]
+	path = autocare-server
+	url = https://github.com/karandevhub/autocare-server.git
+[submodule "autocare-admin"]
+	path = autocare-admin
+	url = https://github.com/karandevhub/autocare-admin.git
